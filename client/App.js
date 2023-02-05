@@ -1,3 +1,5 @@
+<script src="http://192.168.1.5:8097"></script>
+
 import { StatusBar } from "expo-status-bar";
 import { FlatList, StyleSheet, Text, View } from "react-native";
 import { useState, useEffect } from "react";
